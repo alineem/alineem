@@ -1,16 +1,14 @@
-### Hi there 👋
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/alineem/)](https://www.linkedin.com/in/alineem/)
 
-<!--
-**alineem/alineem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello ✨
 
-Here are some ideas to get you started:
+I'm a self-taught developer, with a focus on back-end programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have technical knowledge in Linux, PostgreSQL, SQL, Python, Flask, HTML, CSS, Git, GitHub, Docker, among other things.
+
+I am curious and always working on expanding my knowledge. I'm currently studying JavaScript in order to create more interesting front-end applications. 
+
+Here you can find some of my personal projects ✨
+
+![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
