@@ -19,7 +19,3 @@ Here you can find some of my personal projects ✨
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Flask Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-
-[![Alineem Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alineem&layout=compact)](https://github.com/alineem/github-readme-stats)
-
-
