@@ -6,7 +6,7 @@ I'm a self-taught developer, with a focus on back-end programming.
 
 I have technical knowledge in Linux, PostgreSQL, SQL, Python, Flask, HTML, CSS, Git, GitHub, Docker, among other things.
 
-I am curious and always working on expanding my knowledge. I'm currently studying JavaScript in order to create more interesting front-end applications. 
+I am curious and always working on expanding my knowledge. 
 
 Here you can find some of my personal projects ✨
 
