@@ -24,5 +24,3 @@ ________________________________________________________________________________
 ![BOOTSTRAP Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=whit)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
- ![Snake animation](https://github.com/alineem/alineem/blob/output/github-contribution-grid-snake.svg)
- 
